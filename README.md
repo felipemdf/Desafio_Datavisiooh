@@ -25,7 +25,7 @@
   <http://localhost:8000>
 ```
 
-### Utializando a imagem do docker
+### Utilizando a imagem do docker
 ```   
 # De um pull na imagem do projeto:
  $ docker pull felipemdf/desafio_datavisiooh:latest
@@ -36,3 +36,5 @@
 # A api vai estar rodando na porta 3000
   <http://localhost:3000>
 ```
+## Documentação da API
+ [Documentação pelo Postman](https://www.postman.com/restless-meteor-385326/workspace/1e08145f-830a-48ea-8afd-1fffc5d7a4b3/documentation/17662323-f8dba844-27e4-48eb-8205-3d7fbc90f812)
